@@ -1,0 +1,14 @@
+.main {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-style: normal;
+}
