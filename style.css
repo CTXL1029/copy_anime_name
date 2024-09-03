@@ -7,8 +7,8 @@
 .button {
     display: inline-block;
     vertical-align: middle;
-    font-family: "Mulish", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500px;
+    font-family: "Mulish", system-ui;
+    font-size: 20px;
+    font-weight: 600;
     font-style: normal;
 }
