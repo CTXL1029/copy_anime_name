@@ -8,7 +8,7 @@ function copyText_1()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_2()
@@ -19,7 +19,7 @@ function copyText_2()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_3()
@@ -30,7 +30,7 @@ function copyText_3()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_4()
@@ -41,7 +41,7 @@ function copyText_4()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_5()
@@ -52,7 +52,7 @@ function copyText_5()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_6()
@@ -63,7 +63,7 @@ function copyText_6()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
 
 function copyText_7()
@@ -74,5 +74,5 @@ function copyText_7()
     setTimeout(() => {
         close();
         button.disabled = false;
-    }, 2000);
+    }, 2700);
 }
